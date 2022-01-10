@@ -1,0 +1,37 @@
+* {
+  margin: 0 0;
+  padding: 0 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1%;
+}
+
+.centriran-text {
+  text-align: center;
+}
+
+.mreze ul {
+  list-style-type: none;
+}
+.mreze ul li {
+  display: inline;
+  padding: 1%;
+}
+
+.middle-header {
+  background-image: url(../images/animals.jpg);
+  padding: 200px;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  color: black;
+  opacity: 0.8;
+}
+
+.middle-header h4 {
+  font-weight: bold;
+  font-size: 50px;
+}
